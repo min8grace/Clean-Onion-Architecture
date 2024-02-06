@@ -6,6 +6,7 @@
 * The most popular Architecture 
 
 
+![N-Layer Architecture](img/N-LayerArchitecture.jpg)
 ```
 [Presentation] ==> [Business Logic] ==> [Data Access]
 
@@ -27,7 +28,7 @@ Disadvantages of N-Layer Architecture
 
 
 ### Clean(Onion) Architecture
-
+![clean_architecture](img/clean_architecture.jpg)
 #### >> Core Layer(Domain and Application Layer) 
 Domain(Entity) is the Core of the Entire Application 
 
